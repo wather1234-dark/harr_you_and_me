@@ -62,7 +62,7 @@ var captureIndex;
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("Le message a bien été envoyer à bientôt", "bold 24px Arial", "");
+  var text = new createjs.Text("Le message à bien été envoyer à bientôt", "bold 24px Arial", "");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
